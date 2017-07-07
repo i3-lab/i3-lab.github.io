@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "i3 Laboratory"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Laboratory for Interactive Image-guided Interventions"
+description              : "Official Webpage of Laboratory for Interactive Image-guided Interventions"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
