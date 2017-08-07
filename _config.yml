@@ -9,11 +9,11 @@
 locale                   : "en"
 title                    : "Interactive Image-guided Interventions Lab."
 title_separator          : "-"
-name                     : "Laboratory for Interactive Image-guided Interventions"
+name                     : "Interactive Image-guided Interventions Laboratory"
 description              : "Official Webpage of Laboratory for Interactive Image-guided Interventions"
 url                      : "https://i3-lab.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # "/pages" # the subpath of your site, e.g. "/blog"
-repository               : "i3-lab/i3-lab.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "i3-lab/i3-lab.github.io" # GitHub username/repo-name
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
